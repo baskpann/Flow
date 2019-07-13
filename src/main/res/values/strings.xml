@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlowController</string>
+    <string name="turn_on">ON</string>
+    <string name="turn_off">OFF</string>
+    <string name="hint">+91 XXX-XXX-XXXX</string>
+    <string name="ins">Enter a valid mobile number including country code</string>
+    <string name="emptyError">Field can\'t be left empty</string>
+    <string name="formatError">Must include country code (Eg. For India +91)</string>
+</resources>
